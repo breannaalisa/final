@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/final/mlruns/0/40cf801093674ce38075b4661aba20bc/artifacts
+end_time: 1745956782734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40cf801093674ce38075b4661aba20bc
+run_name: Linear Regression
+run_uuid: 40cf801093674ce38075b4661aba20bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745956779789
+status: 4
+tags: []
+user_id: vscode
